@@ -1,1 +1,5 @@
 #import <stdio.h>
+
+main(){
+
+}
